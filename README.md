@@ -11,13 +11,13 @@ and even debug the actual unit tests.
 
 ## Topics include:
 
-Examining types of frameworks
-Choosing a naming convention
-Creating unit tests
-Running unit tests with Visual Studio
-Modifying and correcting code
-Handling exceptions
-Installing and using nUnit
-Viewing test results with CodeLens
+#### Examining types of frameworks
+#### EChoosing a naming convention
+#### ECreating unit tests
+#### ERunning unit tests with Visual Studio
+#### EModifying and correcting code
+#### EHandling exceptions
+#### EInstalling and using nUnit
+#### EViewing test results with CodeLens
 
 ### Source: https://www.lynda.com/Visual-Studio-tutorials/Visual-Studio-2015-Essentials-09-Unit-Tests/480769-2.html
