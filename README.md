@@ -10,6 +10,7 @@ Guidance provided on how to test with multiple parameters, customize your test r
 and even debug the actual unit tests.
 
 ## Topics include:
+
 Examining types of frameworks
 Choosing a naming convention
 Creating unit tests
